@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Servidor 1",
+    "ip": "127.0.0.1",
+    "port": 7777,
+    "players": 0,
+    "max_players": 500,
+    "online": false
+  },
+  {
+    "id": 2,
+    "name": "Servidor 2",
+    "ip": "127.0.0.2",
+    "port": 7777,
+    "players": 0,
+    "max_players": 500,
+    "online": false
+  }
+]
