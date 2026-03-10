@@ -1,10 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Bem-vindo ao Hypixell!",
+    "title": "Bem-vindo ao HYPIXELL RPG!",
     "description": "Servidor SA-MP Mobile. Conecte-se agora!",
     "image": "https://i.imgur.com/hdfh44a.jpg",
     "link": "https://discord.gg/hypixellrpg",
     "badge": "NOVO"
+  },
+  {
+    "id": 2,
+    "title": "ACESSE NOSSA LOJA",
+    "description": "LOJA VIP",
+    "image": "https://i.imgur.com/LqOIZw5.jpg",
+    "link": "",
+    "badge": "NOVO"
+  },
+  {
+    "id": 3,
+    "title": "FAÇA INSCRIÇÃO PARA LIDER",
+    "description": "COPS/FACÇÕES",
+    "image": "https://I.imgur.com/hdfh44a.jpg",
+    "link": "",
+    "badge": ""
   }
 ]
